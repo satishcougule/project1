@@ -20,3 +20,8 @@ git add 1.js
 git add .
 git commit -m "this is my first commit"
 git commit -m "this is my 2 commit"
+git remote -v
+git remote add "origin" https://github.com/satishcougule/project1.git
+git branch
+git branch -m master main
+git push -u origin main
