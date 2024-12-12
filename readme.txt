@@ -19,4 +19,4 @@ git status
 git add 1.js
 git add .
 git commit -m "this is my first commit"
-git commit -m "this is my second commit"
+git commit -m "this is my 2 commit"
