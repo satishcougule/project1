@@ -18,3 +18,5 @@ create .gitignore file inyour current folder
 git status
 git add 1.js
 git add .
+git commit -m "this is my first commit"
+git commit -m "this is my second commit"
